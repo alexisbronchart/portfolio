@@ -13,9 +13,9 @@ I co-founded 9PM with Frederic della Faille. As CTO, I’m responsible for how t
 [Download 9PM on the App Store](https://apps.apple.com/app/id6798402761) · [Watch Fred’s launch video on X](https://x.com/fredd/status/2102451487469416861)
 
 <p align="center">
-<img src="images/9pm/compose.jpg" width="200" alt="Choosing photos and videos for the evening reveal"/>
-<img src="images/9pm/reveal.jpg" width="200" alt="A friend’s entry after the 9 PM reveal"/>
-<img src="images/9pm/diary.jpg" width="200" alt="Past entries in a friend’s photo diary"/>
+<img src="images/9pm/home.jpg" width="200" alt="The 9PM home feed showing Tuesday’s photo entries from friends."/>
+<img src="images/9pm/dog-post.jpg" width="200" alt="Lady’s post with a photo of the dog and heart reactions from friends."/>
+<img src="images/9pm/profile.jpg" width="200" alt="Alexis’s 9PM profile with a photo diary grouped by day."/>
 </p>
 
 ## [friendOS](https://www.linkedin.com/company/friendosapp/)
