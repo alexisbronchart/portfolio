@@ -28,7 +28,12 @@ As a founding engineer, I helped build the native iOS app. We turned location an
 
 ##### 🚀Platform: 📱iOS
 
-[Read the team’s closing note](https://www.linkedin.com/pulse/sunset-friendosapp-zy2ne/)
+[Post on X](https://x.com/fredd/status/1942647821343265222) · [Read the team’s closing note](https://www.linkedin.com/pulse/sunset-friendosapp-zy2ne/)
+
+<p align="center">
+<img src="images/friendos/beta-feed.jpg" width="200" alt="The Menow beta feed showing recent activities from close friends"/>
+<img src="images/friendos/beta-check-in.jpg" width="200" alt="A photo check-in with friends in the Menow beta"/>
+</p>
 
 <p align="center">
 <img src="images/friendos/app-icon.png" width="200" alt="The original green friendOS app icon"/>
