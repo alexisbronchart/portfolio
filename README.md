@@ -1,10 +1,10 @@
-# [Alexis Bronchart - Senior iOS Engineer](https://www.linkedin.com/in/alexisbronchart/)
+# [Alexis Bronchart — CTO, Technical Advisor & Senior Software Engineer](https://www.linkedin.com/in/alexisbronchart/)
 
 ## [9PM](https://9pm.app/)
 
 9PM is a photo diary for close friends. You pick photos and videos from your day. At nine each evening, everyone gets to see what their friends picked.
 
-I co-founded 9PM with Frederic della Faille. We built the first working version in two weeks so we could try it with our own friends. I work on both the iOS app and the backend, from uploading photos and videos to revealing entries at the right time across time zones.
+I co-founded 9PM with Frederic della Faille. As CTO, I’m responsible for how the product is built and run. I set the technical direction, build the iOS app and backend, and manage the production infrastructure. We built the first working version in two weeks so we could try it with our own friends.
 
 ##### 🔨Technologies: Swift, SwiftUI, ActivityKit, TypeScript, NestJS, PostgreSQL.
 
@@ -22,7 +22,7 @@ I co-founded 9PM with Frederic della Faille. We built the first working version 
 
 friendOS was a private iPhone app that let close friends see what each other was up to. Going for a run, arriving in a new city or coming home could show up in a friend’s feed without anyone having to write a post.
 
-As a founding engineer, I helped build the native iOS app. We turned location and activity signals into updates friends could see in the feed or on their Home Screen widget. More than 20,000 people tried friendOS before we closed it.
+I was a founding engineer at friendOS. I started development of the native iOS app on day one and kept building it alongside the engineers who joined later. We turned location and activity signals into updates friends could see in the feed or on their Home Screen widget. More than 20,000 people tried friendOS before we closed it.
 
 ##### 🔨Technologies: Swift, SwiftUI, Core Location, WidgetKit.
 
@@ -31,8 +31,8 @@ As a founding engineer, I helped build the native iOS app. We turned location an
 [Post on X](https://x.com/fredd/status/1942647821343265222) · [Read the team’s closing note](https://www.linkedin.com/pulse/sunset-friendosapp-zy2ne/)
 
 <p align="center">
-<img src="images/friendos/beta-feed.jpg" width="200" alt="The Menow beta feed showing recent activities from close friends"/>
-<img src="images/friendos/beta-check-in.jpg" width="200" alt="A photo check-in with friends in the Menow beta"/>
+<img src="images/friendos/home.jpg" width="200" alt="The friendOS home screen with a grid of friends’ latest activities"/>
+<img src="images/friendos/check-in.jpg" width="200" alt="A beach check-in in friendOS with photos and reactions from friends"/>
 </p>
 
 <p align="center">
